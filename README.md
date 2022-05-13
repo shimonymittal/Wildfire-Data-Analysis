@@ -1,5 +1,11 @@
 # Wildfire-Data-Analysis
 
+**Description:**
+Implement a fire data analysis based on different datasets. The location should be of YOUR CHOICE, feel
+free to investigate an area that is familiar to you or that you are interested in. The area of interest should contain a
+min. of 10x10km and not be larger than approx. 500 x 500km, the max timespan should not be larger than the last
+10 years.
+
 **Input data:**
 (you may need to register at the climate data store first.)
   - Burned Area: MODIS burned area (grid OR pixel) [https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-fire-burned-area?tab=overview]
